@@ -1,0 +1,35 @@
+
+ body{
+background-color:black ;
+color: white;
+ }
+
+ title{
+    color: white;
+ }
+ 
+ h1{
+    color: deepskyblue;
+    text-align: center;
+}
+
+h2{
+    color: white;
+}
+
+ol{
+    color: white;
+    font-size: large;
+}
+
+h3{
+    color: white;
+}
+
+span{
+    color: cornflowerblue;
+}
+
+h3{
+font-size: 30px;
+}
